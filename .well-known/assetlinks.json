@@ -1,3 +1,4 @@
+
 [
   {
     "relation": [
@@ -8,6 +9,18 @@
       "package_name": "com.aihubtools.taraz",
       "sha256_cert_fingerprints": [
         "BA:CD:2D:0F:47:5B:88:4B:64:01:E0:EF:38:C4:7D:36:63:FF:90:E4:C4:0F:39:50:D2:E0:EA:09:1F:76:DE:FE"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aihubtools.repairdesk",
+      "sha256_cert_fingerprints": [
+        "F7:27:A1:94:D4:C7:38:D7:36:B0:88:91:33:94:87:95:3F:7A:59:77:99:59:DF:FB:64:38:FA:A4:21:7A:F4:F6"
       ]
     }
   }
