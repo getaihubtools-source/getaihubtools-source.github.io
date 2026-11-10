@@ -1,3 +1,4 @@
+
 [
   {
     "relation": [
@@ -34,18 +35,17 @@
         "F0:26:6F:6C:56:94:75:A7:C2:D7:4A:06:2D:B7:3A:5B:EC:7F:F4:2A:DF:25:6A:58:5E:D6:49:3E:77:78:62:1D"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aihubtools.polino",
+      "sha256_cert_fingerprints": [
+        "99:99:FF:8B:0D:E0:43:27:93:96:88:C0:08:79:8A:0C:F4:E4:7E:83:4C:6D:13:45:AB:05:87:D4:A2:46:72:42"
+      ]
+    }
   }
 ]
-,
-{
-  "relation": [
-    "delegate_permission/common.handle_all_urls"
-  ],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.aihubtools.polino",
-    "sha256_cert_fingerprints": [
-      "99:99:FF:8B:0D:E0:43:27:93:96:88:C0:08:79:8A:0C:F4:E4:7E:83:4C:6D:13:45:AB:05:87:D4:A2:46:72:42"
-    ]
-  }
-}
