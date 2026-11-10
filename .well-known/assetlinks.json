@@ -36,3 +36,16 @@
     }
   }
 ]
+,
+{
+  "relation": [
+    "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.aihubtools.polino",
+    "sha256_cert_fingerprints": [
+      "99:99:FF:8B:0D:E0:43:27:93:96:88:C0:08:79:8A:0C:F4:E4:7E:83:4C:6D:13:45:AB:05:87:D4:A2:46:72:42"
+    ]
+  }
+}
